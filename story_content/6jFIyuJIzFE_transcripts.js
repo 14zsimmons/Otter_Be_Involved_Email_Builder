@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"To access the Otter Be Involved template, login to Salesforce Marketing Cloud using the provided credentials from our CSUMB"},{"start":6080,"text":"Salesforce Administrator."},{"start":9888,"text":"Once logged in successfully, you'll navigate to the email studio in the list of applications on the top left"},{"start":16416,"text":"of the screen. Click Email Studio followed by email from the dropdown selections."},{"start":22528,"text":"Now that you've entered email studio, there's a variety of tools for email analytics and data management."},{"start":29056,"text":"For today's lesson, we will just be focusing on creating email content. Next click content."},{"start":35584,"text":" This view shows all content options we are just looking to create a new email using a template."},{"start":41632,"text":"Next click create followed by email message."}]}]};
+    window.globalLoadJsAsset('story_content/6jFIyuJIzFE_transcripts.js', JSON.stringify(data));
+})();
